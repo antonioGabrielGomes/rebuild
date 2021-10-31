@@ -1,0 +1,7 @@
+$ sudo npm install -g @vue/cli
+$ vue create most-used-words
+$ cd most-used-words
+$ vue add vuetify
+$ vue add electron-builder
+
+$ npm run electron:serve
